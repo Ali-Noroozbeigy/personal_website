@@ -50,14 +50,14 @@ a:hover {
   color: #FEF5AC;
 }
 
-.welcoming-part {
+.my-name {
   background-color: #EEE3CB;
   position: relative;
   padding-top: 100px;
   padding-bottom: 100px;
 }
 
-.my-name {
+.uinfo {
   font-size: 2.3rem;
   padding-top: 15px;
 }
@@ -92,14 +92,20 @@ a:hover {
   margin-left: 30px;
 }
 
-.clab-img {
-  width: 20%;
+.os-img {
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
 
+.clab-img {
+  width: 20%;
+  float: right;
+  margin-right: 30px;
+}
+
 .python-img {
-  width: 25%;
+  width: 30%;
   float: left;
   margin-right: 30px;
 }
